@@ -1,0 +1,13 @@
+node server.js
+
+http://localhost:3000/api/clients
+
+http://localhost:3000/api/prospects
+
+http://localhost:3000/api/produits
+
+http://localhost:3000/api/stock/4
+
+http://localhost:3000/api/commandes/7
+
+http://localhost:3000/api/order-products/7/7
